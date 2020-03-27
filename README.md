@@ -1,23 +1,6 @@
 # vueapp
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+Newgate Technologies is an IT solution provider, with excellent UI/UX design. skills used are HTML,CSS,vuejs Javascript framework and Bootstrap.
 ```
 
 ### Customize configuration
