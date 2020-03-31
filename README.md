@@ -1,4 +1,4 @@
-# vueapp
+# Newgate Technology
 
 Newgate Technologies is an IT solution provider, with excellent UI/UX design. skills used are HTML,CSS,vuejs Javascript framework and Bootstrap.
 ```
